@@ -147,7 +147,7 @@ If you'd like to help improve WarpVar:
 
 * 🌐 **WarpVar Website:** https://warpvar.wasmer.app/
 * 📦 **Versions:** https://warpvar.wasmer.app/#versions
-* 💬 **Community / Support:** https://discord.gg/axAeTRFmUe
+* 💬 **Community / Support:** https://dsc.gg/warpvar
 * 🧪 **Test on Scratch:** https://scratch.mit.edu/
 * 🧪 **Test on TurboWarp:** https://turbowarp.org/
 
@@ -174,5 +174,5 @@ See the [`LICENSE`](LICENSE) file for license information.
 ---
 
 <p align="center">
-  Made by <a href="https://discord.com/users/1386885019397521419">Dr_Animalis</a>, <a href="https://discord.com/users/1349548957931405393">1_FOLLOW</a>, & <a href="https://discord.com/users/1399691329671266304">CtrlAltSpace</a>
+  Made by <a href="https://discord.com/users/1386885019397521419">Dr_Animalis</a> & <a href="https://discord.com/users/1349548957931405393">1_FOLLOW</a>
 </p>
