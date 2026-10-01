@@ -6,7 +6,7 @@ WarpVar is a Chrome extension that lets you **view, filter, and change project v
 
 🌐 **Website:** https://warpvar.wasmer.app/
 
-> ⚠️ **Note:** WarpVar is currently in development. **v4.0 adds support for Scratch's official website**, while older versions are primarily designed for TurboWarp.
+> ⚠️ **Note:** WarpVar is currently in development. **v4.0+ adds support for Scratch's official website**, while older versions are primarily designed for TurboWarp.
 
 ---
 
