@@ -117,7 +117,7 @@ Each version is kept separately so older versions remain available without inter
 | 🟢 **Google Chrome**           | **Supported**          |
 | 🟡 **Other Chromium browsers** | May work               |
 
-> **v4.0 introduces support for Scratch's official website.** Earlier versions may not function correctly on Scratch.
+> **v4.0+ introduces support for Scratch's official website.** Earlier versions may not function correctly on Scratch.
 
 ---
 
