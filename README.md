@@ -4,7 +4,7 @@
 
 WarpVar is a Chrome extension that lets you **view, filter, and change project variables instantly** without stopping your project.
 
-🌐 **Website:** https://warpvar.wasmer.app/
+🌐 **Website:** https://warpvar.wasmer.app/ (Currently outdated)
 
 > ⚠️ **Note:** WarpVar is currently in development. **v4.0+ adds support for Scratch's official website**, while older versions are primarily designed for TurboWarp.
 
@@ -38,7 +38,7 @@ WarpVar isn't currently available on the Chrome Web Store, so you'll need to ins
 
 ### 1. Download WarpVar
 
-Go to the **[Versions](https://warpvar.wasmer.app/#versions)** section and download your preferred version.
+Go to the **[Releases](https://github.com/WarpVar-Official/WarpVar/releases)** section in this repository and download your preferred version.
 
 Extract the downloaded `.zip` file.
 
@@ -85,7 +85,7 @@ You can optionally click the **📌 Pin** icon to keep WarpVar easily accessible
 | **v3.1** | 🟡 Legacy | Enhanced detection, improved UI, better performance & advanced filtering                  |
 | **v2.0** | 🔴 EoL  | Stable version with basic variable listing and editing                                    |
 
-For downloads, check the **[Versions](https://warpvar.wasmer.app/#versions)** page.
+For downloads, check the **[Releases](https://github.com/WarpVar-Official/WarpVar/releases)** page.
 
 `^ EOL = End of Life`
 
@@ -147,11 +147,11 @@ If you'd like to help improve WarpVar:
 
 ## 🔗 Links
 
-* 🌐 **WarpVar Website:** https://warpvar.wasmer.app/
-* 📦 **Versions:** https://warpvar.wasmer.app/#versions
+* 🌐 **WarpVar Website:** https://warpvar.wasmer.app/ (Currently outdated)
+* 📦 **Versions:** https://warpvar.wasmer.app/#versions (Currently outdated)
 * 💬 **Community / Support:** https://dsc.gg/warpvar
-* 🧪 **Test on Scratch:** https://scratch.mit.edu/
-* 🧪 **Test on TurboWarp:** https://turbowarp.org/
+* 🧪 **Test on Scratch:** https://scratch.mit.edu/projects/1210556896
+* 🧪 **Test on TurboWarp:** https://turbowarp.org/1210556896
 
 ---
 
@@ -159,11 +159,13 @@ If you'd like to help improve WarpVar:
 
 WarpVar is developed and maintained by:
 
-* **[Dr_Animalis](https://github.com/dranimalis)** - Founder, Owner & Lead Developer
-* **[1_FOLLOW](https://github.com/1-FOLLOW)** - Co-Founder & Co-Owner
+* **[Dr_Animalis](https://github.com/dranimalis)** - Founder, Owner & Lead Developer (Copyright holder)
+* **[1_FOLLOW](https://github.com/1-FOLLOW)** - Co-Founder & Co-Owner (Copyright holder)
 * **[CtrlAltSpace](https://github.com/CtrlAltSpace)** - Developer
 
 A special thank you to **[CtrlAltSpace](https://github.com/CtrlAltSpace)** for contributing to WarpVar's development, testing, improvements, and ideas.
+
+For more details go to [CONTRIBUTING.md/Contributors](https://github.com/WarpVar-Official/WarpVar/tree/ctrlaltspace?tab=contributing-ov-file#contributors)
 
 All contributors are credited for their work and contributions to the project.
 
