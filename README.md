@@ -6,7 +6,7 @@ WarpVar is a Chrome extension that lets you **view, filter, and change project v
 
 🌐 **Website:** https://warpvar.wasmer.app/
 
-> ⚠️ **Note:** WarpVar is currently in development. **v4.0 adds support for Scratch's official website**, while older versions are primarily designed for TurboWarp.
+> ⚠️ **Note:** WarpVar is currently in development. **v4.0+ adds support for Scratch's official website**, while older versions are primarily designed for TurboWarp.
 
 ---
 
@@ -17,7 +17,7 @@ WarpVar is a Chrome extension that lets you **view, filter, and change project v
 * 🔎 **Advanced Filtering** - Quickly find the variable you're looking for.
 * 🎨 **Simple UI** - Clean and easy-to-use browser interface.
 * 🚀 **Fast Performance** - Designed to make variable editing quick and convenient.
-* 🧩 **Scratch Support** - v4.0 supports projects on Scratch's official website.
+* 🧩 **Scratch Support** - v4.0+ supports projects on Scratch's official website.
 * ⚙️ **TurboWarp Support** - Continue using WarpVar with TurboWarp projects.
 
 ---
@@ -63,7 +63,7 @@ For example:
 ```text
 WarpVar/
 └── versions/
-    └── WarpVar-v4.0/
+    └── WarpVar-v4.1/
 ```
 
 Select the version folder containing `manifest.json`.
@@ -80,7 +80,7 @@ You can optionally click the **📌 Pin** icon to keep WarpVar easily accessible
 
 | Version  | Status    | Description                                                                               |
 | -------- | --------- | ----------------------------------------------------------------------------------------- |
-| **v4.1** | 🟢 Latest Stable| Scratch support and improved UI to match v3.1 |
+| **v4.1** | 🟢 Latest (Stable) | Scratch support and improved UI to match v3.1 |
 | **v4.0** | 🔵 Supported | Scratch support, improved detection, enhanced UI, better performance & advanced filtering |
 | **v3.1** | 🟡 Legacy | Enhanced detection, improved UI, better performance & advanced filtering                  |
 | **v2.0** | 🔴 EoL  | Stable version with basic variable listing and editing                                    |
@@ -117,7 +117,7 @@ Each version is kept separately so older versions remain available without inter
 | 🟢 **Google Chrome**           | **Supported**          |
 | 🟡 **Other Chromium browsers** | May work               |
 
-> **v4.0 introduces support for Scratch's official website.** Earlier versions may not function correctly on Scratch.
+> **v4.0+ introduces support for Scratch's official website.** Earlier versions may not function correctly on Scratch.
 
 ---
 
@@ -149,7 +149,7 @@ If you'd like to help improve WarpVar:
 
 * 🌐 **WarpVar Website:** https://warpvar.wasmer.app/
 * 📦 **Versions:** https://warpvar.wasmer.app/#versions
-* 💬 **Community / Support:** https://discord.gg/axAeTRFmUe
+* 💬 **Community / Support:** https://dsc.gg/warpvar
 * 🧪 **Test on Scratch:** https://scratch.mit.edu/
 * 🧪 **Test on TurboWarp:** https://turbowarp.org/
 
@@ -176,5 +176,5 @@ See the [`LICENSE`](LICENSE) file for license information.
 ---
 
 <p align="center">
-  Made by <a href="https://discord.com/users/1386885019397521419">Dr_Animalis</a>, <a href="https://discord.com/users/1349548957931405393">1_FOLLOW</a>, & <a href="https://discord.com/users/1399691329671266304">CtrlAltSpace</a>
+  Made by <a href="https://discord.com/users/1386885019397521419">Dr_Animalis</a> & <a href="https://discord.com/users/1349548957931405393">1_FOLLOW</a>
 </p>
