@@ -165,7 +165,7 @@ WarpVar is developed and maintained by:
 
 A special thank you to **[CtrlAltSpace](https://github.com/CtrlAltSpace)** for contributing to WarpVar's development, testing, improvements, and ideas.
 
-For more details go to [CONTRIBUTING.md/Contributors](https://github.com/WarpVar-Official/WarpVar/tree/ctrlaltspace?tab=contributing-ov-file#contributors)
+For more details go to [CONTRIBUTING.md/Contributors](https://github.com/WarpVar-Official/WarpVar/tree/main?tab=contributing-ov-file#contributors)
 
 All contributors are credited for their work and contributions to the project.
 
